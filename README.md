@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yakobo-Kyombo
+Hi there wave, Yakobo Here...
 - 👀 I’m interested in machine learning and data science
 - 🌱 I’m currently student at WQU completing 8 projetcs
 - 💞️ I’m looking to collaborate on open source projects 
